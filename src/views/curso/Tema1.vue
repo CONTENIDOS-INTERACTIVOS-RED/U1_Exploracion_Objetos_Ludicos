@@ -136,7 +136,7 @@
           div.col-lg-3.mb-4(data-aos="zoom-in-up")
             div.bg-color-white.box-shadow.px-4.py-5.h-100
               img.mx-auto.d-block.mb-4(src="@/assets/curso/tema1/15.svg" alt="" style="width: 90px")
-              h5.text-center 03 
+              h5.text-center 04 
               p.mb-0.text-center Promover la reflexión y el diálogo para ampliar el sentido y la comprensión de las experiencias lúdicas.
     
     .bg-full-width.bg-color-9.mb-5
@@ -442,15 +442,66 @@
 
             p.d-flex.my-4
               img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
-              a(href="https://elibro.net/es/lc/tecnologicadeloriente/titulos/274611" target="_blank" rel="noopener noreferrer") De Castro Emilio Cerdá, F. J. A. L. M. (s/f). Las energías renovables en el ámbito internacional. Revistasice.com. 
+              a(href="https://elibro.net/es/lc/tecnologicadeloriente/titulos/41536 " target="_blank" rel="noopener noreferrer") Criado Martínez, N. (2004). Álvaro Cunqueiro: el juego de la ficción dramática: ( ed.). Editorial CSIC Consejo Superior de Investigaciones Científicas. 
+
+
 
             p.d-flex.my-4
-              img.me-3(src='@/assets/template/book.svg' :style="{'max-width':'16px'}")
-              span De Janeiro, R. (1992). La declaración del Río sobre el Medio Ambiente y el Desarrollo. Río de Janeiro República Federativa del Brasil., aprobada en Estocolmo el, 16.
+              img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
+              a(href="https://elibro.net/es/lc/tecnologicadeloriente/titulos/175739" target="_blank" rel="noopener noreferrer") Angelini, M. L. (2021). La simulación como estrategia educativa: propuesta adaptada para el medio físico y virtual: ( ed.). Dykinson.  
+
+
+            p.d-flex.my-4
+              img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
+              a(href="https://elibro.net/es/lc/tecnologicadeloriente/titulos/69925 " target="_blank" rel="noopener noreferrer") Narváez-Goenaga, V. & Coronell Gutiérrez, M. (2014). Juego y lenguajes expresivos en la primera infancia. Una perspectiva de derechos: ( ed.). Universidad del Norte. 
+
+
+            p.d-flex.my-4
+              img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
+              a(href="https://dialnet.unirioja.es/descarga/articulo/3629264.pdf" target="_blank" rel="noopener noreferrer") Carrasco, M. E. D. (2011). La dramtización: recurso didáctico en educación infantil. Pedagogía magna, (11), 382-392.  
+
+
+            p.d-flex.my-4
+              img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
+              a(href="https://dialnet.unirioja.es/servlet/articulo?codigo=6940126 " target="_blank" rel="noopener noreferrer") Mora Márquez, M., & Camacho Torralbo, J. (2019). Classcraft: inglés y juego de roles en el aula de educación primaria. Apertura (Guadalajara, Jal.), 11(1), 56-73. 
+
+
+            p.d-flex.my-4
+              img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
+              a(href="https://portalciencia.ull.es/documentos/5f52d7cc29995276cb4beef0?lang=ca " target="_blank" rel="noopener noreferrer") Boquete Martín, G. (2011). El uso del juego dramático en la enseñanza de lenguas: las destrezas orales (Doctoral dissertation, Universidad de Alcalá). 
+
+
+            p.d-flex.my-4
+              img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
+              a(href="https://illinoisearlylearning.org/es/tipsheets/drama-sp/ " target="_blank" rel="noopener noreferrer") El juego dramático y los niños pequeños | Illinois Early Learning Project. (s.f.). Illinois Early Learning Project. 
+
+
+            p.d-flex.my-4
+              img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
+              a(href="https://www.pennfoster.edu/blog/benefits-of-dramatic-play-in-ece " target="_blank" rel="noopener noreferrer") Penn Foster. (2016, 23 de diciembre). The Impact of Dramatic Play in Early Childhood Education. Accredited College, High School & Career School Online | Penn Foster. 
+
+
+            p.d-flex.my-4
+              img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
+              a(href="https://www.wgu.edu/blog/dramatic-play-what-is-why-important2111.html " target="_blank" rel="noopener noreferrer") Dramatic Play: What It Is and Why It’s Important. (s.f.). Western Governors University. 
+
+
 
             p.d-flex.my-4
               img.me-3(src='@/assets/template/icono-yt.svg' :style="{'max-width':'16px'}")
-              a(href="https://youtu.be/QKLjwCMyv3M?si=uAWhO9tnyghljaJg" target="_blank" rel="noopener noreferrer") Innovación y sostenibilidad.
+              a(href="https://www.youtube.com/watch?v=GAX7W_p6w1s" target="_blank" rel="noopener noreferrer") videoconferencias. (2013, 25 de abril). UTPL EXPRESIÓN DRAMÁTICA Y CORPORAL [(CCEE EDUCACIÓN INFANTIL)(EXPRESIÓN DRAMÁTICA Y CORPORAL)] [Video]. YouTube.  
+            p.d-flex.my-4
+              img.me-3(src='@/assets/template/icono-yt.svg' :style="{'max-width':'16px'}")
+              a(href="https://www.youtube.com/watch?v=QKkUSWeuRlk" target="_blank" rel="noopener noreferrer") videoconferencias. (2013, 22 de abril). UTPL TÍTERES Y RESILIENCIA [(CCEE EDUCACIÓN INFANTIL)(EXPRESIÓN DRAMÁTICA Y CORPORAL)] [Video]. YouTube.  
+
+  
+            p.d-flex.my-4
+              img.me-3(src='@/assets/template/icono-yt.svg' :style="{'max-width':'16px'}")
+              a(href="https://www.youtube.com/watch?v=fEIkjsOsHd8" target="_blank" rel="noopener noreferrer") permisoparasernino. (2015, 29 de junio). Del juego al aprendizaje más formal y simbólico [Video]. YouTube.  
+
+ 
+
+
 
           .col-12.col-md-6.col-lg-3.offset-lg-1
             figure

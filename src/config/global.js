@@ -15,20 +15,62 @@ export default {
         nombreRuta: 'tema1',
         icono: 'far fa-file-alt',
         numero: '1',
-        titulo: 'Título tema',
+        titulo:
+          'Juegos dramáticos con los niños y las niñas de la primera infancia',
         desarrolloContenidos: true,
         subMenu: [
           {
             icono: 'far fa-file-alt',
             numero: '1.1',
-            titulo: 'Subtítulo tema',
+            titulo: '¿Cuál es la expresión dramática en la primera infancia?',
             hash: 't_1_1',
           },
           {
             icono: 'far fa-file-alt',
             numero: '1.2',
-            titulo: 'Subtítulo tema',
+            titulo:
+              'Sentido pedagógico del juego dramático en el desarrollo infantil',
             hash: 't_1_2',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '1.3',
+            titulo:
+              'Elementos del juego dramático: ficción, simulación, roles y narración',
+            hash: 't_1_3',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '1.4',
+            titulo:
+              'Tipologías del juego dramático: espontáneo, guiado, estructurado',
+            hash: 't_1_4',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '1.5',
+            titulo: 'Reglas implícitas y explícitas en los juegos dramáticos',
+            hash: 't_1_5',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '1.6',
+            titulo: 'Rol del adulto en el acompañamiento del juego dramático',
+            hash: 't_1_6',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '1.7',
+            titulo:
+              'Estrategias para diseñar ambientes lúdicos que favorecen la expresión',
+            hash: 't_1_7',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '1.8',
+            titulo:
+              'Estudio de caso: análisis teórico de una situación de juego dramático',
+            hash: 't_1_8',
           },
         ],
       },
@@ -36,26 +78,56 @@ export default {
         nombreRuta: 'tema2',
         icono: 'far fa-file-alt',
         numero: '2',
-        titulo: 'Título tema',
+        titulo:
+          'Juegos de roles en los niños y las niñas de la primera infancia',
         desarrolloContenidos: true,
         subMenu: [
           {
             icono: 'far fa-file-alt',
             numero: '2.1',
-            titulo: 'Subtítulo tema',
+            titulo: 'Diferencias entre juego simbólico y juego de roles',
             hash: 't_2_1',
           },
           {
             icono: 'far fa-file-alt',
             numero: '2.2',
-            titulo: 'Subtítulo tema',
+            titulo:
+              'Características del juego de roles en la educación inicial',
             hash: 't_2_2',
           },
           {
             icono: 'far fa-file-alt',
             numero: '2.3',
-            titulo: 'Subtítulo tema',
+            titulo:
+              'Etapas evolutivas del juego de roles en la primera infancia',
             hash: 't_2_3',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '2.4',
+            titulo: 'Personajes, situaciones y objetos en el juego de roles',
+            hash: 't_2_4',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '2.5',
+            titulo:
+              'Juego de roles como herramienta para fortalecer vínculos sociales y solidarios',
+            hash: 't_2_5',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '2.6',
+            titulo:
+              'Observación pedagógica del juego de roles: técnicas e instrumentos',
+            hash: 't_2_6',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '2.7',
+            titulo:
+              'Diseño de propuestas educativas basadas en el juego de roles',
+            hash: 't_2_7',
           },
         ],
       },
